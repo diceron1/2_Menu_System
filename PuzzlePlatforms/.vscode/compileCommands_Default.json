@@ -40,6 +40,16 @@
 		"directory": "E:\\Epic Games\\UE_5.0\\Engine\\Source"
 	},
 	{
+		"file": "D:\\Unreal Projects\\2_Menu_System\\PuzzlePlatforms\\Source\\PuzzlePlatforms\\MenuSystem\\ServerRow.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\2_Menu_System\\PuzzlePlatforms\\.vscode\\compileCommands_Default\\PuzzlePlatforms.205.rsp\"",
+		"directory": "E:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\2_Menu_System\\PuzzlePlatforms\\Source\\PuzzlePlatforms\\MenuSystem\\ServerRow.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\2_Menu_System\\PuzzlePlatforms\\.vscode\\compileCommands_Default\\PuzzlePlatforms.205.rsp\"",
+		"directory": "E:\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
 		"file": "D:\\Unreal Projects\\2_Menu_System\\PuzzlePlatforms\\Source\\PuzzlePlatforms\\MovingPlatform.cpp",
 		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"D:\\Unreal Projects\\2_Menu_System\\PuzzlePlatforms\\.vscode\\compileCommands_Default\\PuzzlePlatforms.205.rsp\"",
 		"directory": "E:\\Epic Games\\UE_5.0\\Engine\\Source"
